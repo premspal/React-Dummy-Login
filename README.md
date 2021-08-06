@@ -1,7 +1,11 @@
 This is a small react app where users can login with a dummy username and password.
 Username should not be null and password must be at least 7 characters long.
 
-I learnt these things by making this project.
+Here is the link of project with code:
+
+<h4>https://codesandbox.io/s/nimap-machine-test-6l9s6</h4>
+
+<h3>I learnt these things by making this project.</h3>
 
 How to pass data between components using props?  
 How to lift the state up?  
@@ -10,6 +14,7 @@ How to fetch data from api?
 How to use react-bootstrap?  
 etc...
 
+<h2>Screenshots</h2>
 <p float="left">
  <img src="Login.jpeg" width=150>
  <img src="Home.jpeg" width=150>
