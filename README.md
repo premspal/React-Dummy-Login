@@ -3,11 +3,11 @@ Username should not be null and password must be at least 7 characters long.
 
 I learnt these things by making this project.
 
-How to pass data between components using props?
-How to lift the state up?
-How to use react-router?
-How to fetch data from api?
-How to use react-bootstrap?
+How to pass data between components using props?  
+How to lift the state up?  
+How to use react-router?  
+How to fetch data from api?  
+How to use react-bootstrap?  
 etc...
 
 
