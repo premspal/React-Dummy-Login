@@ -5,7 +5,7 @@ Here is the link of project with code:
 
 <h4>https://codesandbox.io/s/nimap-machine-test-6l9s6</h4>
 
-<h3>I learnt these things by making this project.</h3>
+<h3>I learnt these topics by making this project.</h3>
 
 How to pass data between components using props?  
 How to lift the state up?  
