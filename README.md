@@ -11,7 +11,10 @@ How to use react-bootstrap?
 etc...
 
 <p float="left">
- <img src="Login.jpeg" width=100>
+ <img src="Login.jpeg" width=125>
+ <img src="Home.jpeg" width=125>
+  <img src="Login_information.jpeg" width=125>
+ <img src="Movies.jpeg" width=125>
 </p>
 
 After login, you can navigate through different pages of the app via the navigation panel. 
