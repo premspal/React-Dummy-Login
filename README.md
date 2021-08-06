@@ -10,6 +10,9 @@ How to fetch data from api?
 How to use react-bootstrap?  
 etc...
 
+<p float="left">
+ <img src="Login.jpeg" width=100>
+</p>
 
 After login, you can navigate through different pages of the app via the navigation panel. 
 
