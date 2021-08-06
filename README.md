@@ -23,6 +23,6 @@ Tasks Page
 >> Here you can add movies to watch. When you click on the Add movie button it fetches the title of the movie from ( https://swapi.dev/api/films/) and shows on the screen. Also, you can delete the movie by clicking on the delete button.
 
 Logout Button
->> I will immediately redirect you to the login page. Also, If you are not login you can not access any of the above pages. 
+>> It will immediately redirect you to the login page. Also, If you are not login you can not access any of the above pages. 
 
 This app does not store any of your information.
